@@ -1,4 +1,5 @@
-numpy
-pandas
-plotly.express
 streamlit
+streamlit-autorefresh
+pandas
+numpy
+plotly

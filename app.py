@@ -27,7 +27,11 @@ def load_data():
     df = pd.read_csv("electrodomesticos.csv", parse_dates=['fecha_venta'])
     return df
 
-df = load_data()
+try:
+    df = load_data()
+except FileNotFoundError:
+    st.error("El archivo 'electrodomesticos.csv' no se encontró. Por favor, asegúrate de incluirlo en el directorio de trabajo.")
+    st.stop()
 
 # Filtros de la barra lateral
 st.sidebar.header("Filtros")
@@ -132,5 +136,4 @@ st.markdown("## Vista Detallada de Datos")
 st.dataframe(filtered_df)
 
 # Actualización Automática del Dashboard Cada 60 Segundos
-# Nota: Puedes ajustar el intervalo según tus necesidades (60000 ms = 60 segundos)
 count = st_autorefresh(interval=60000, limit=None, key="dashboard_refresh")
