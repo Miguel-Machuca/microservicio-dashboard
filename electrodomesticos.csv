@@ -1,0 +1,51 @@
+id,categoria,producto,region,fecha_venta,ventas,unidades_vendidas,precio_venta,costo,inventario,devoluciones,calificacion_cliente
+1,Refrigeradores,FridgeX100,Norte,2023-01-05,1500.00,3,500.00,350.00,50,0,4.5
+2,Lavadoras,WashPro 200,Sur,2023-01-06,1200.00,2,600.00,400.00,40,1,4.0
+3,Microondas,MicroHeat 300,Este,2023-01-07,800.00,4,200.00,120.00,60,0,4.2
+4,Televisores,ViewMax 55,Norte,2023-01-08,2500.00,1,2500.00,1800.00,30,0,4.8
+5,Aspiradoras,VacuumClean 500,Oeste,2023-01-09,600.00,5,120.00,70.00,70,0,4.1
+6,Lavavajillas,DishMaster 100,Centro,2023-01-10,950.00,5,190.00,133.00,45,0,4.3
+7,Secadoras,DryFast 100,Norte,2023-01-11,1800.00,3,600.00,420.00,35,0,4.6
+8,Hornos,CookEasy 100,Sur,2023-01-12,2200.00,4,550.00,385.00,25,0,4.4
+9,Aires Acondicionados,AirCool 1000,Este,2023-01-13,3000.00,2,1500.00,1050.00,20,0,4.7
+10,Calentadores,HeatPlus 100,Oeste,2023-01-14,800.00,8,100.00,70.00,55,1,4.2
+11,Refrigeradores,FridgeX200,Sur,2023-01-15,1600.00,4,400.00,280.00,50,0,4.6
+12,Lavadoras,WashPro 300,Este,2023-01-16,1300.00,3,433.33,303.33,40,1,3.9
+13,Microondas,MicroHeat 400,Oeste,2023-01-17,900.00,5,180.00,126.00,60,0,4.3
+14,Televisores,ViewMax 65,Norte,2023-01-18,3000.00,1,3000.00,2100.00,30,0,4.9
+15,Aspiradoras,VacuumClean 600,Sur,2023-01-19,700.00,6,116.67,81.67,70,0,4.0
+16,Lavavajillas,DishMaster 200,Centro,2023-01-20,1100.00,5,220.00,154.00,45,0,4.5
+17,Secadoras,DryFast 200,Norte,2023-01-21,2000.00,4,500.00,350.00,35,0,4.4
+18,Hornos,CookEasy 200,Sur,2023-01-22,2400.00,6,400.00,280.00,25,1,4.2
+19,Aires Acondicionados,AirCool 2000,Este,2023-01-23,3500.00,2,1750.00,1225.00,20,0,4.8
+20,Calentadores,HeatPlus 200,Oeste,2023-01-24,900.00,9,100.00,70.00,55,1,4.1
+21,Refrigeradores,FridgeX300,Sur,2023-01-25,1700.00,2,850.00,595.00,50,0,4.7
+22,Lavadoras,WashPro 400,Este,2023-01-26,1400.00,4,350.00,245.00,40,1,4.2
+23,Microondas,MicroHeat 500,Oeste,2023-01-27,1000.00,5,200.00,140.00,60,0,4.4
+24,Televisores,ViewMax 75,Norte,2023-01-28,3500.00,1,3500.00,2450.00,30,0,4.9
+25,Aspiradoras,VacuumClean 700,Sur,2023-01-29,750.00,7,107.14,75.00,70,0,4.1
+26,Lavavajillas,DishMaster 300,Centro,2023-01-30,1250.00,5,250.00,175.00,45,0,4.4
+27,Secadoras,DryFast 300,Norte,2023-01-31,2200.00,4,550.00,385.00,35,0,4.5
+28,Hornos,CookEasy 300,Sur,2023-02-01,2600.00,5,520.00,364.00,25,1,4.3
+29,Aires Acondicionados,AirCool 3000,Este,2023-02-02,4000.00,2,2000.00,1400.00,20,0,4.9
+30,Calentadores,HeatPlus 300,Oeste,2023-02-03,1000.00,10,100.00,70.00,55,1,4.0
+31,Refrigeradores,FridgeX400,Sur,2023-02-04,1800.00,3,600.00,420.00,50,0,4.5
+32,Lavadoras,WashPro 500,Este,2023-02-05,1500.00,3,500.00,350.00,40,0,4.3
+33,Microondas,MicroHeat 600,Oeste,2023-02-06,1100.00,6,183.33,128.33,60,1,4.0
+34,Televisores,ViewMax 85,Norte,2023-02-07,4000.00,1,4000.00,2800.00,30,0,5.0
+35,Aspiradoras,VacuumClean 800,Sur,2023-02-08,800.00,8,100.00,70.00,70,0,4.2
+36,Lavavajillas,DishMaster 400,Centro,2023-02-09,1400.00,5,280.00,196.00,45,0,4.5
+37,Secadoras,DryFast 400,Norte,2023-02-10,2400.00,4,600.00,420.00,35,0,4.4
+38,Hornos,CookEasy 400,Sur,2023-02-11,2800.00,5,560.00,392.00,25,1,4.2
+39,Aires Acondicionados,AirCool 4000,Este,2023-02-12,4500.00,2,2250.00,1575.00,20,0,4.8
+40,Calentadores,HeatPlus 400,Oeste,2023-02-13,1100.00,11,100.00,70.00,55,1,4.1
+41,Refrigeradores,FridgeX100,Norte,2023-02-14,2000.00,4,500.00,350.00,50,0,4.6
+42,Lavadoras,WashPro 200,Sur,2023-02-15,1800.00,3,600.00,420.00,40,0,4.5
+43,Microondas,MicroHeat 300,Este,2023-02-16,1200.00,6,200.00,140.00,60,1,4.3
+44,Televisores,ViewMax 55,Norte,2023-02-17,2750.00,1,2750.00,1925.00,30,0,4.7
+45,Aspiradoras,VacuumClean 500,Oeste,2023-02-18,840.00,7,120.00,84.00,70,0,4.2
+46,Lavavajillas,DishMaster 100,Centro,2023-02-19,1140.00,6,190.00,133.00,45,0,4.4
+47,Secadoras,DryFast 100,Norte,2023-02-20,2100.00,3,700.00,490.00,35,0,4.6
+48,Hornos,CookEasy 100,Sur,2023-02-21,2550.00,5,510.00,357.00,25,1,4.5
+49,Aires Acondicionados,AirCool 1000,Este,2023-02-22,3250.00,2,1625.00,1137.50,20,0,4.7
+50,Calentadores,HeatPlus 100,Oeste,2023-02-23,850.00,9,94.44,66.11,55,1,4.2
