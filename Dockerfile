@@ -13,7 +13,7 @@ COPY electrodomesticos.csv electrodomesticos.csv
 RUN pip install --no-cache-dir -r requirements.txt
 
 # Expone el puerto que tu aplicación utiliza (ajusta según tu app)
-EXPOSE 5000
+EXPOSE 8501
 
 # Define el comando para ejecutar tu aplicación
 CMD ["python", "app.py"]
